@@ -4,5 +4,10 @@ change1 -git diff to check diff from modified file to repository.
 Fix the bug.
 
 Enhancement is added.
+<<<<<<< .merge_file_a03108
 Change it from master. 
 change made by master change1.git
+=======
+
+Change from branch bug. change1
+>>>>>>> .merge_file_a02896
